@@ -5,3 +5,6 @@ K&amp;R C/C++ code indent style snippets for Sublime Text
 ###macOS
     cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
     git clone https://github.com/oleggator/sublimetext-knr-c-indent-style.git 
+###Linux
+    cd ~/.config/sublime-text-3/Packages/User
+    git clone https://github.com/oleggator/sublimetext-knr-c-indent-style.git 
